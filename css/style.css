@@ -1,0 +1,21 @@
+#contenedor{
+	padding: 6rem;
+	padding-top: 10rem;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+}
+
+.fuera{
+	display:none;
+}
+.buscar{
+	position:absolute;
+	right:45.2%;
+	top:5%;
+	width:190px;
+}
+.caja{
+	padding-left: 29rem;
+}
